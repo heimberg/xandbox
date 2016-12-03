@@ -16,4 +16,4 @@ git push
 7. Publish your worksheet to ximera.osu.edu with `xake publish`
 8. Append `/first` to the URL that xake prints out.
 
-Ximera is still a work in progress and there may be bugs.  Please e-mail Jim Fowler or add an [issue](https://github.com/kisonecat/ximera/issues) to the bug tracker.
+Ximera is still a work in progress and there may be bugs.  Please e-mail Jim Fowler or add an [issue](https://github.com/kisonecat/ximera/issues) to the bug tracker.# xandbox
